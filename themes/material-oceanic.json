@@ -12,6 +12,7 @@
     "editor.wordHighlightBorder": "#546E7A",
     "editor.wordHighlightStrongBorder": "#546E7A",
     "editorBracketMatch.border": "#546E7A",
+    "titleBar.activeBackground": "#263238",
     "activityBar.background": "#263238",
     "activityBar.foreground": "#89DDFF",
     "activityBarBadge.background": "#36444b",
